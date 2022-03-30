@@ -14,3 +14,18 @@ Admin: The University, college or school management who is responsible for gener
 Work process: This will consist of upload and check procedure of answer papers. It needs some small group of people who will upload the answer sheets to the system. The admin will select these people.
 
 Result: According to the details provided at the time of upload this system will generate the mark sheet of each student.
+
+
+
+4W's and 1 H
+Who
+* Student who needs marksheet
+What 
+* verify the details of the student using allotted data
+When 
+* During the time of marksheet allocation
+Where
+* At college
+
+How
+Online registration on the field of verification using local browser
