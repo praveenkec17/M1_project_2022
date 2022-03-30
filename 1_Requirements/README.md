@@ -28,4 +28,5 @@ Where
 * At college
 
 How
-Online registration on the field of verification using local browser
+
+* Online registration on the field of verification using local browser
