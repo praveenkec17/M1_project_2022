@@ -1,3 +1,4 @@
+![P3 (2)](https://user-images.githubusercontent.com/88073170/160975317-88b6df5b-7907-4029-9984-309aeef1aac5.jpeg)
 Introduction
 
 Today, there are lots of College and School is present, and it is increasing each day. So, it is become difficult to check the exam copies of each student correctly within the prescribed time. To overcome this problem, we are going to build a Mark sheet generation system which will check the answer copies of the student and also generate the mark card of each student. By use of this system a University, Colleges, and School will get the benefit and can produce the result of students with minimal error and in minimum time.
