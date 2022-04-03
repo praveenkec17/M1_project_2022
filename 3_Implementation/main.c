@@ -122,7 +122,7 @@ void show(){
 		printf("*");
 		i1++;}
     printf("\n|");
-	printf("\n| \t\t\t THIRD SEMESTER OF BACHELOR OF ENGINEERING  ,  WINTER 2019 ");
+	printf("\n| \t\t\t THIRD SEMESTER OF BACHELOR OF ENGINEERING  ,  SUMMER 2022 ");
 	printf("\n|\n");
 	while(i<113){
 		printf("-");
